@@ -1,5 +1,5 @@
 # kctzstyle
-Hi!
+Hi! 😊
 
 ## profile
 - email: `kctzstyle@gmail.com`
