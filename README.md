@@ -1,9 +1,8 @@
 # kctzstyle
-![Avatar](images/Avatar.png)
-
 Hi! 😊
 
 ## Profile
+![Avatar](images/Avatar.png)
 - email: `kctzstyle@gmail.com`
 - twitter: [@kctzstyle](https://twitter.com/kctzstyle)
 
