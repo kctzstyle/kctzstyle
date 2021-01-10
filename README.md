@@ -3,7 +3,7 @@
 
 Hi! 😊
 
-## profile
+## Profile
 - email: `kctzstyle@gmail.com`
 - twitter: [@kctzstyle](https://twitter.com/kctzstyle)
 
