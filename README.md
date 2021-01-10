@@ -1,4 +1,6 @@
 # kctzstyle
+![Avatar](images/Avatar.png)
+
 Hi! 😊
 
 ## profile
