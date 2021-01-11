@@ -5,7 +5,7 @@ Hi! 😊
 ![Avatar](images/Avatar.png)
 - email: `kctzstyle@gmail.com`
 - twitter: [@kctzstyle](https://twitter.com/kctzstyle)
-- reddit: u/kctzstyle
+- reddit: [u/kctzstyle](https://www.reddit.com/user/kctzstyle)
 
 ## Message
 
