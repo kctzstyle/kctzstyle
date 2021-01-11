@@ -6,6 +6,7 @@ Hi! 😊
 - email: `kctzstyle@gmail.com`
 - twitter: [@kctzstyle](https://twitter.com/kctzstyle)
 - reddit: [u/kctzstyle](https://www.reddit.com/user/kctzstyle)
+- instagram: [@kctzstyle](https://www.instagram.com/kctzstyle)
 
 ## Message
 
