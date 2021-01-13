@@ -1,7 +1,7 @@
 # kctzstyle
 Hi! 😊
 
-Joined GitHub on January 9, 2021
+_Joined GitHub on January 9, 2021_
 
 ## Profile
 ![Avatar](images/Avatar.png)
