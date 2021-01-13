@@ -1,6 +1,8 @@
 # kctzstyle
 Hi! 😊
 
+Joined GitHub on January 9, 2021
+
 ## Profile
 ![Avatar](images/Avatar.png)
 - email: `kctzstyle@gmail.com`
