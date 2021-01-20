@@ -12,8 +12,9 @@ _Joined GitHub on January 9, 2021_
 - discord: [kctzstyle's Server](https://discord.gg/dfuEKfh9hS)
 
 ## Message
-
-**I need a teacher.**
+- I like Python!
+- So, I'm learning Python along ..
+- **I need a teacher!**
 
 - **깃린이✏** 입니다!
 - 깃허브 처음 사용해봐요. 완전 초보에요!
