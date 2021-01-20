@@ -12,6 +12,7 @@ _Joined GitHub on January 9, 2021_
 - discord: [kctzstyle's Server](https://discord.gg/dfuEKfh9hS)
 
 ## Message
+- I am a **beginner** at GitHub.
 - I like Python!
 - So, I'm learning Python along ..
 - **I need a teacher!**
