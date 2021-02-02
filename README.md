@@ -1,10 +1,11 @@
-# kctzstyle
+
+![Banner](images/Banner.png)
 Hi! 😊
 
 _Joined GitHub on January 9, 2021_
 
 ## Profile
-![Avatar](images/Avatar.png)
+- **name**: kctzstyle
 - **email**: `kctzstyle@gmail.com`
 - **twitter**: [@kctzstyle](https://twitter.com/kctzstyle)
 - **reddit**: [u/kctzstyle](https://www.reddit.com/user/kctzstyle)
