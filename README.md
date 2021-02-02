@@ -1,4 +1,4 @@
-![Banner](images/Banner.png){: width="350" height="150" }
+![Banner](images/Banner.png){: width="350" height="150"}
 
 
 
