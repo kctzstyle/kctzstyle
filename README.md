@@ -8,7 +8,7 @@ _Joined GitHub on January 9, 2021_
 
 
 ## Profile
-- **name**: kctzstyle
+- **name**: [kctzstyle](https://github.com/kctzstyle)
 - **email**: `kctzstyle@gmail.com`
 - **twitter**: [@kctzstyle](https://twitter.com/kctzstyle)
 - **reddit**: [u/kctzstyle](https://www.reddit.com/user/kctzstyle)
