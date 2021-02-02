@@ -1,8 +1,14 @@
+![Banner](images/Banner.png){: width="350" height="150" :}
 
-![Banner](images/Banner.png)
+
+
 Hi! 😊
 
+
+
 _Joined GitHub on January 9, 2021_
+
+
 
 ## Profile
 - **name**: kctzstyle
