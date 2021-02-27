@@ -8,6 +8,7 @@ _Joined GitHub on January 9, 2021_
 
 
 ## Profile
+[![kctzstyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kctzstyle)](https://github.com/kctzstyle)
 - **name**: [kctzstyle](https://github.com/kctzstyle)
 - **email**: `kctzstyle@gmail.com`
 - **twitter**: [@kctzstyle](https://twitter.com/kctzstyle)
