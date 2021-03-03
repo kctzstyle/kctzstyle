@@ -2,7 +2,7 @@
 [![Banner](images/Banner.png)](https://github.com/kctzstyle)
 
 
-Hi! 😊
+**Hi! 😊**
 
 _Joined GitHub on January 9, 2021_
 
