@@ -16,7 +16,7 @@ _Joined GitHub on January 9, 2021_
 - **instagram**: [@kctzstyle](https://www.instagram.com/kctzstyle)
 - **discord**: [kctzstyle's Server](https://discord.gg/dfuEKfh9hS)
 
-## I am ..
+## I am [@kctzstyle](https://github.com/kctzstyle)
 - **A beginner** at GitHub.
 - I like Python!
 - So, I am learning Python along ..
